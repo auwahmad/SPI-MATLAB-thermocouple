@@ -14,3 +14,4 @@ The bits are then merge together and shift right 3 bits to read only temperature
 
 ## Thank Note
 Really appreciate the MATLAB's answers which supported a lot in getting this done.
+https://www.mathworks.com/matlabcentral/answers/481052-matlab-cannot-read-data-from-max6675-through-arduino#answer_1154420
