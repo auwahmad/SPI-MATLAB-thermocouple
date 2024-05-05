@@ -15,3 +15,13 @@ The bits are then merge together and shift right 3 bits to read only temperature
 ## Thank Note
 Really appreciate the MATLAB's answers which supported a lot in getting this done.
 https://www.mathworks.com/matlabcentral/answers/481052-matlab-cannot-read-data-from-max6675-through-arduino#answer_1154420
+
+## Highlights
+Simulink Model
+<img src="https://github.com/auwahmad/SPI-MATLAB-thermocouple/assets/70074147/1661b61d-3403-4a25-a856-d6245368a8f4" width="931" height="473">
+Data Extraction Sub System
+<img src="https://github.com/auwahmad/SPI-MATLAB-thermocouple/assets/70074147/d0afb0c0-f563-417c-bdb6-4f96ef238e8a" width="931" height="473">
+
+
+
+
